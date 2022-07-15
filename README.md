@@ -1,4 +1,4 @@
-<h1><center><bf>👋Ciao, thanks for stopping by!</bf></center></h1>
+<h1 align="center">👋Ciao, thanks for stopping by!</h1>
 
 ## 😎About Me
 
@@ -15,9 +15,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height = 100 width = 100/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height = 100 width = 100/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height = 100 width = 100/>  
-<img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" style="position:relative;left:0px; top:-30px;" height = 200 width = 200/>
 <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-tall-lightbg.svg" height = 100 width = 100/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="position:relative;top:-30px" height = 130 width = 130/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="position:relative;top:px" height = 130 width = 130/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height = 100 width = 100/></div> 
 </center>    
 
