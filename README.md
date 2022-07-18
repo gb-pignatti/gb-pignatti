@@ -2,7 +2,7 @@
 
 ## 😎About Me
 
-**I am Giovan Battista (but you can call me GB). I am originally from Italy but I relocated to New York to pursue a PhD in Math. Halfway through my program I picked up an interest in Data Science. Through many readings and constant practice, this interest turned into a real passion. Now that I've graduated, I'm excited to officially start my career as a Data Analyst.** 
+I am Giovan Battista (but you can call me GB). I am originally from Italy but I'm currently located in New York City. I recently received my PhD in Math from the City University of New York (if you are curious about the content of my thesis, you can get your own digital copy [here](https://academicworks.cuny.edu/gc_etds/4775/)). Halfway through my graduate program I picked up an interest in Data Science. Over the following years, through constant practice, many readings and original projects, this interest turned into a professional passion. Now that I've graduated, I'm excited to officially start my career as a Data Analyst and see where this jouney takes me. 
 
 - 👨🏻‍💻 **What I've Done:** [🏀 NBAvsEL](https://github.com/gb-pignatti/NBAvsEL) | [🎬 predicting_movies_revenues](https://github.com/gb-pignatti/predicting_movies_revenues)
 - ✨ **Hobbies:** 🎵 Going to as many concerts as possible | 🥇 Watching sports and rooting for Italy at the Olympics
@@ -15,12 +15,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height = 100 width = 100/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height = 100 width = 100/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height = 100 width = 100/>  
+<img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" style="position:relative;left:0px; top:0px;" height = 100 width = 150/>
 <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-tall-lightbg.svg" height = 100 width = 100/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="position:relative;top:px" height = 130 width = 130/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="position:relative;top:0px" height = 130 width = 130/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height = 100 width = 100/></div> 
 </center>    
 
-## 🏙️ Cities Where I've Lived
+## 🏙️ Cities I've Lived In
 
 ![my_cities](images/cities.png)
     
